@@ -1,0 +1,8 @@
+
+streamlit
+aif360==0.3
+tensorflow==1.15
+pandas
+numpy
+scikit-learn
+matplotlib
